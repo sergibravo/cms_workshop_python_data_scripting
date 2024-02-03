@@ -1,4 +1,4 @@
-##Computational Molecular Science (CMS) Workshop - Python scripting
+## Computational Molecular Science (CMS) Workshop - Python scripting
 
 This repo contains a series of mini projects done as part of the CMS Workshop, available at https://education.molssi.org/python_scripting_cms 
 
