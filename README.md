@@ -1,3 +1,10 @@
-## Geom analysis
+##Computational Molecular Science (CMS) Workshop - Python scripting
 
-This python script, takes a .xyz file and gives a list of the distance between atoms, calculated by using the Euclidean distance formula. The script avoid repeated measures and the user can input a minimum and maximum threshold for the atom distance values.
+This repo contains a series of mini projects done as part of the CMS Workshop, available at https://education.molssi.org/python_scripting_cms 
+
+The subproject include:
+1) Parsing files: Total energies from .out files into a separate .txt file; and plotting the values into a .png.
+2) Data plotting using numpy+matplotlib.
+3) Calculating distances in-between atoms of .xyz files.
+4) Testing code.
+5) Version control (git and GitHub).
